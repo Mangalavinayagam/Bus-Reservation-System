@@ -1,15 +1,15 @@
 DOWNLOAD AS .ZIP FILE AND EXTRACT ALL FILES TO THE SAME FOLDER
 
-USERNAME & PASSWORD FOR THE PROGRAM :-
-Username : user
-Password : pass
+username & password for the program :-
+username : user
+password : pass
 
-AND IF YOU WISH TO CHANGE YOUR PASSWORD:
-THEN, OPEN SOURCE FILE AND SCROLL DOWN. SEARCH FOR :- void login()
-CHANGE password AND DONT FORGET TO SAVE & COMPILE IT AFTER EDITING.
+and if you wish to change your password:
+then, open source file and scroll down. search for :- void login()
+change password and dont forget to save & compile it after editing.
 
 DON'T DELETE THE (.txt) FILES INSIDE THE MAIN PROJECT FOLDER
 BECAUSE IT's THE DATABASE OF THIS PROJECT
 
-***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT ME *****  
+***** If you find any errors or any problems related this program, feel free to contact me *****  
 
